@@ -3,3 +3,5 @@ This project uses a data from a camera image to extract the localization map and
 
 <h3> Sneek Peak </h3>
 <img src="img/vo.gif" alt="Visual Odometry GIF">
+
+# DOCUMENTATION under progress
